@@ -1,7 +1,7 @@
 /*************************************************************************
 # File Name: main.go
-# Author: zgc
-# Mail: zhangguangchao@kingsoft.com
+# Author: lizao2
+# Mail: lizao2@163.com    
 # Created Time: 2017-04-21 16:32:41
 # Last modified: 2017-04-21 18:16:01
 ************************************************************************/
